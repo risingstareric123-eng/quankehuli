@@ -1,0 +1,26 @@
+required_sections:
+  - 题名
+  - 作者
+  - 单位
+  - 摘要
+  - 关键词
+  - 引言
+  - 方法
+  - 结果
+  - 讨论
+  - 结论
+  - 参考文献
+  - 伦理声明
+unit_whitelist:
+  - mmHg
+  - mg/L
+  - mmol/L
+  - kg
+  - cm
+  - min
+  - h
+  - '%'
+  - ℃
+  - 次/min
+percent_tolerance: 0.5
+citation_style: bracket
